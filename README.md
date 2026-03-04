@@ -9,3 +9,5 @@ Palaišanas instrukcija:
 3. ieladēt Ievarījuma kalkulators
 4. atvert palaišanas programma
 5. uzspied uz f5 pogu izveliet phyton debugger un programma sāks stradāt
+
+MIT licensi
